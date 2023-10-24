@@ -35,7 +35,7 @@ ROS : Noetic
 
 IDE : VS Code, Unity 2022.3.4.f1
 
-YOLOv5
+YOLOv3 -> YOLOv5 업그레이드 예정
 
 ## 주요 기능 세부 설명
 사람인식 : 
