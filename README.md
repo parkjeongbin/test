@@ -59,7 +59,9 @@ YOLOv3 -> YOLOv5 업그레이드 예정
 (동영상 추가)
 
 slam
-(사진 추가)
+
+![slam](https://github.com/parkjeongbin/test/assets/85598829/9868a329-539d-4d5f-af20-b6a6cd151866)
+
 
 사람인식
 (동영상 추가)
