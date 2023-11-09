@@ -66,3 +66,8 @@ slam
 
 시뮬레이션
 (동작 추가)
+
+키오스크
+
+[스크린샷, 2023년 11월 03일 19시 17분 28초.webm](https://github.com/parkjeongbin/test/assets/85598829/a1e5cc75-b225-4fa7-8931-a9581e107fc4)
+
